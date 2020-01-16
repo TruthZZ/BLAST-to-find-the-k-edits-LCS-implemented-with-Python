@@ -1,0 +1,2689 @@
+Core genome is NO.54
+Core genome name: >01_AE.JP.-.DR1741.AB253640
+Core genome edge number: 696
+
+Markers:
+Maker NO.1
+Marker length: 2
+Marker index: 772 - 774
+Aligned times: 80
+
+Maker NO.2
+Marker length: 7
+Marker index: 4879 - 4886
+Aligned times: 35
+
+Maker NO.3
+Marker length: 46
+Marker index: 3603 - 3649
+Aligned times: 4
+
+Maker NO.4
+Marker length: 125
+Marker index: 1459 - 1584
+Aligned times: 2
+
+Maker NO.5
+Marker length: 153
+Marker index: 3692 - 3845
+Aligned times: 1
+
+Maker NO.6
+Marker length: 195
+Marker index: 4938 - 5133
+Aligned times: 1
+
+Maker NO.7
+Marker length: 203
+Marker index: 6426 - 6629
+Aligned times: 1
+
+Maker NO.8
+Marker length: 100
+Marker index: 7798 - 7898
+Aligned times: 1
+
+with other genomes NO.1
+Name 1: >B.FR.1983.IIIB_LAI.A04321
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 150
+Index in core genome: 4791 - 4941
+Length in aligned genome: 150
+Index in aligned genome: 4324 - 4474
+
+
+with other genomes NO.2
+Name 2: >B.FR.1983.LAI-J19.A07867
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 150
+Index in core genome: 4791 - 4941
+Length in aligned genome: 150
+Index in aligned genome: 4324 - 4474
+
+
+with other genomes NO.3
+Name 3: >C.IN.1993.93IN101.AB023804
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 173
+Index in core genome: 4752 - 4925
+Length in aligned genome: 173
+Index in aligned genome: 4712 - 4885
+
+
+with other genomes NO.4
+Name 4: >01_AE.TH.1995.95TNIH022.AB032740
+LCS NO.2
+Aligned with marker NO.2
+Length in core genome: 296
+Index in core genome: 4791 - 5087
+Length in aligned genome: 296
+Index in aligned genome: 4741 - 5037
+
+
+with other genomes NO.5
+Name 5: >01_AE.TH.1995.95TNIH047.AB032741
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 257
+Index in core genome: 4791 - 5048
+Length in aligned genome: 257
+Index in aligned genome: 4741 - 4998
+
+
+with other genomes NO.6
+Name 6: >02_AG.GH.1997.97GH-AG1.AB049811
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 157
+Index in core genome: 711 - 868
+Length in aligned genome: 157
+Index in aligned genome: 706 - 863
+
+
+with other genomes NO.7
+Name 7: >02A1.GH.1997.97GH-AG2.AB052867
+LCS NO.1
+Aligned with marker NO.5
+Length in core genome: 153
+Index in core genome: 3692 - 3845
+Length in aligned genome: 153
+Index in aligned genome: 3707 - 3860
+
+
+with other genomes NO.8
+Name 8: >01_AE.JP.1993.93JP_NH1.AB052995
+LCS NO.2
+Aligned with marker NO.3
+Length in core genome: 345
+Index in core genome: 3352 - 3697
+Length in aligned genome: 345
+Index in aligned genome: 3341 - 3686
+
+LCS NO.3
+Aligned with marker NO.3
+Length in core genome: 339
+Index in core genome: 3377 - 3716
+Length in aligned genome: 339
+Index in aligned genome: 3366 - 3705
+
+LCS NO.5
+Aligned with marker NO.2
+Length in core genome: 288
+Index in core genome: 4848 - 5136
+Length in aligned genome: 288
+Index in aligned genome: 4837 - 5125
+
+LCS NO.5
+Aligned with marker NO.6
+Length in core genome: 288
+Index in core genome: 4848 - 5136
+Length in aligned genome: 288
+Index in aligned genome: 4837 - 5125
+
+LCS NO.6
+Aligned with marker NO.2
+Length in core genome: 261
+Index in core genome: 4875 - 5136
+Length in aligned genome: 261
+Index in aligned genome: 4864 - 5125
+
+LCS NO.6
+Aligned with marker NO.6
+Length in core genome: 261
+Index in core genome: 4875 - 5136
+Length in aligned genome: 261
+Index in aligned genome: 4864 - 5125
+
+
+with other genomes NO.9
+Name 9: >01_AE.JP.1993.NH25_93JPNH25T_93JP_NH2_5T.AB070352
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 282
+Index in core genome: 573 - 855
+Length in aligned genome: 282
+Index in aligned genome: 574 - 856
+
+
+with other genomes NO.10
+Name 10: >B.US.1997.ARES2.AB078005
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 150
+Index in core genome: 4791 - 4941
+Length in aligned genome: 150
+Index in aligned genome: 4730 - 4880
+
+
+with other genomes NO.11
+Name 11: >01B.MM.2000.mIDU502.AB097865
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 126
+Index in core genome: 4800 - 4926
+Length in aligned genome: 126
+Index in aligned genome: 4162 - 4288
+
+
+with other genomes NO.12
+Name 12: >01BC.MM.2000.mCSW503.AB097866
+LCS NO.1
+Aligned with marker NO.6
+Length in core genome: 195
+Index in core genome: 4938 - 5133
+Length in aligned genome: 195
+Index in aligned genome: 4228 - 4423
+
+
+with other genomes NO.13
+Name 13: >01B.MM.1999.mCSW104.AB097867
+LCS NO.2
+Aligned with marker NO.2
+Length in core genome: 315
+Index in core genome: 4665 - 4980
+Length in aligned genome: 315
+Index in aligned genome: 4045 - 4360
+
+
+with other genomes NO.14
+Name 14: >01BC.MM.1999.mIDU107.AB097868
+LCS NO.1
+Aligned with marker NO.7
+Length in core genome: 203
+Index in core genome: 6426 - 6629
+Length in aligned genome: 203
+Index in aligned genome: 6394 - 6597
+
+
+with other genomes NO.15
+Name 15: >BC.MM.1999.mIDU106.AB097869
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 126
+Index in core genome: 4800 - 4926
+Length in aligned genome: 126
+Index in aligned genome: 4787 - 4913
+
+
+with other genomes NO.16
+Name 16: >B.MM.1999.mSTD101.AB097870
+LCS NO.1
+Aligned with marker NO.8
+Length in core genome: 100
+Index in core genome: 7798 - 7898
+Length in aligned genome: 100
+Index in aligned genome: 7201 - 7301
+
+
+with other genomes NO.17
+Name 17: >C.MM.1999.mIDU101_3.AB097871
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 173
+Index in core genome: 4752 - 4925
+Length in aligned genome: 173
+Index in aligned genome: 4090 - 4263
+
+
+with other genomes NO.18
+Name 18: >01_AE.MM.1999.mCSW105.AB097872
+LCS NO.2
+Aligned with marker NO.2
+Length in core genome: 310
+Index in core genome: 4695 - 5005
+Length in aligned genome: 310
+Index in aligned genome: 4684 - 4994
+
+
+with other genomes NO.19
+Name 19: >BC.MM.1999.mIDU103.AB097873
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 146
+Index in core genome: 4791 - 4937
+Length in aligned genome: 146
+Index in aligned genome: 4156 - 4302
+
+
+with other genomes NO.20
+Name 20: >A1.UG.-.UG031.AB098330
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 242
+Index in core genome: 4665 - 4907
+Length in aligned genome: 242
+Index in aligned genome: 4630 - 4872
+
+
+with other genomes NO.21
+Name 21: >A1.UG.-.UG031.AB098331
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 199
+Index in core genome: 669 - 868
+Length in aligned genome: 199
+Index in aligned genome: 637 - 836
+
+
+with other genomes NO.22
+Name 22: >A1.UG.1992.UG029.AB098332
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 133
+Index in core genome: 4754 - 4887
+Length in aligned genome: 133
+Index in aligned genome: 4733 - 4866
+
+
+with other genomes NO.23
+Name 23: >A1.UG.1992.UG029.AB098333
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 133
+Index in core genome: 4754 - 4887
+Length in aligned genome: 133
+Index in aligned genome: 4733 - 4866
+
+
+with other genomes NO.24
+Name 24: >01_AE.TH.1993.93TH051.AB220944
+LCS NO.2
+Aligned with marker NO.3
+Length in core genome: 298
+Index in core genome: 3603 - 3901
+Length in aligned genome: 298
+Index in aligned genome: 3595 - 3893
+
+LCS NO.2
+Aligned with marker NO.5
+Length in core genome: 298
+Index in core genome: 3603 - 3901
+Length in aligned genome: 298
+Index in aligned genome: 3595 - 3893
+
+
+with other genomes NO.25
+Name 25: >01_AE.TH.1993.93TH054.AB220945
+LCS NO.1
+Aligned with marker NO.3
+Length in core genome: 274
+Index in core genome: 3471 - 3745
+Length in aligned genome: 274
+Index in aligned genome: 3469 - 3743
+
+LCS NO.2
+Aligned with marker NO.3
+Length in core genome: 274
+Index in core genome: 3471 - 3745
+Length in aligned genome: 274
+Index in aligned genome: 3469 - 3743
+
+LCS NO.3
+Aligned with marker NO.2
+Length in core genome: 351
+Index in core genome: 4629 - 4980
+Length in aligned genome: 351
+Index in aligned genome: 4627 - 4978
+
+LCS NO.5
+Aligned with marker NO.2
+Length in core genome: 376
+Index in core genome: 4629 - 5005
+Length in aligned genome: 376
+Index in aligned genome: 4627 - 5003
+
+
+with other genomes NO.26
+Name 26: >01_AE.TH.1993.93TH060.AB220946
+LCS NO.4
+Aligned with marker NO.2
+Length in core genome: 261
+Index in core genome: 4695 - 4956
+Length in aligned genome: 261
+Index in aligned genome: 4691 - 4952
+
+LCS NO.5
+Aligned with marker NO.2
+Length in core genome: 345
+Index in core genome: 4791 - 5136
+Length in aligned genome: 345
+Index in aligned genome: 4787 - 5132
+
+LCS NO.5
+Aligned with marker NO.6
+Length in core genome: 345
+Index in core genome: 4791 - 5136
+Length in aligned genome: 345
+Index in aligned genome: 4787 - 5132
+
+LCS NO.6
+Aligned with marker NO.2
+Length in core genome: 261
+Index in core genome: 4875 - 5136
+Length in aligned genome: 261
+Index in aligned genome: 4871 - 5132
+
+LCS NO.6
+Aligned with marker NO.6
+Length in core genome: 261
+Index in core genome: 4875 - 5136
+Length in aligned genome: 261
+Index in aligned genome: 4871 - 5132
+
+
+with other genomes NO.27
+Name 27: >01_AE.TH.1993.93TH062.AB220947
+LCS NO.4
+Aligned with marker NO.3
+Length in core genome: 273
+Index in core genome: 3376 - 3649
+Length in aligned genome: 273
+Index in aligned genome: 3368 - 3641
+
+LCS NO.5
+Aligned with marker NO.3
+Length in core genome: 339
+Index in core genome: 3377 - 3716
+Length in aligned genome: 339
+Index in aligned genome: 3369 - 3708
+
+LCS NO.6
+Aligned with marker NO.3
+Length in core genome: 298
+Index in core genome: 3603 - 3901
+Length in aligned genome: 298
+Index in aligned genome: 3595 - 3893
+
+LCS NO.6
+Aligned with marker NO.5
+Length in core genome: 298
+Index in core genome: 3603 - 3901
+Length in aligned genome: 298
+Index in aligned genome: 3595 - 3893
+
+
+with other genomes NO.28
+Name 28: >01_AE.TH.1993.93TH065.AB220948
+LCS NO.5
+Aligned with marker NO.2
+Length in core genome: 330
+Index in core genome: 4791 - 5121
+Length in aligned genome: 330
+Index in aligned genome: 4782 - 5112
+
+
+with other genomes NO.29
+Name 29: >B.US.1985.Ba_L.AB221005
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 146
+Index in core genome: 4791 - 4937
+Length in aligned genome: 146
+Index in aligned genome: 4785 - 4931
+
+
+with other genomes NO.30
+Name 30: >B.JP.2004.04JPDR6075B.AB221125
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 125
+Index in core genome: 4761 - 4886
+Length in aligned genome: 125
+Index in aligned genome: 4756 - 4881
+
+
+with other genomes NO.31
+Name 31: >B.JP.2004.04JPDR6075B.AB221126
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 125
+Index in core genome: 4761 - 4886
+Length in aligned genome: 125
+Index in aligned genome: 4756 - 4881
+
+
+with other genomes NO.32
+Name 32: >G.GH.2003.GHNJ175.AB231893
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 142
+Index in core genome: 4863 - 5005
+Length in aligned genome: 142
+Index in aligned genome: 4886 - 5028
+
+
+with other genomes NO.33
+Name 33: >02A3.GH.2003.GHNJ176.AB231894
+LCS NO.1
+Aligned with marker NO.4
+Length in core genome: 125
+Index in core genome: 1459 - 1584
+Length in aligned genome: 125
+Index in aligned genome: 1455 - 1580
+
+
+with other genomes NO.34
+Name 34: >02_AG.GH.2003.GHNJ185.AB231895
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 118
+Index in core genome: 4879 - 4997
+Length in aligned genome: 118
+Index in aligned genome: 4904 - 5022
+
+
+with other genomes NO.35
+Name 35: >02_AG.GH.2003.GHNJ188.AB231896
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 156
+Index in core genome: 712 - 868
+Length in aligned genome: 156
+Index in aligned genome: 723 - 879
+
+
+with other genomes NO.36
+Name 36: >02D.GH.2003.GHNJ193.AB231897
+LCS NO.1
+Aligned with marker NO.4
+Length in core genome: 125
+Index in core genome: 1459 - 1584
+Length in aligned genome: 125
+Index in aligned genome: 1453 - 1578
+
+
+with other genomes NO.37
+Name 37: >02_AG.GH.2003.GHNJ196.AB231898
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 174
+Index in core genome: 712 - 886
+Length in aligned genome: 174
+Index in aligned genome: 719 - 893
+
+
+with other genomes NO.38
+Name 38: >A1.RW.1992.92RW008.AB253421
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 186
+Index in core genome: 669 - 855
+Length in aligned genome: 186
+Index in aligned genome: 670 - 856
+
+
+with other genomes NO.39
+Name 39: >A1.RW.1992.92RW008.AB253422
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 186
+Index in core genome: 669 - 855
+Length in aligned genome: 186
+Index in aligned genome: 670 - 856
+
+
+with other genomes NO.40
+Name 40: >01_AE.JP.-.DR0492.AB253423
+LCS NO.2
+Aligned with marker NO.2
+Length in core genome: 257
+Index in core genome: 4791 - 5048
+Length in aligned genome: 257
+Index in aligned genome: 4790 - 5047
+
+
+with other genomes NO.41
+Name 41: >01_AE.TH.1993.93TH057.AB253424
+LCS NO.1
+Aligned with marker NO.3
+Length in core genome: 298
+Index in core genome: 3418 - 3716
+Length in aligned genome: 298
+Index in aligned genome: 3415 - 3713
+
+LCS NO.2
+Aligned with marker NO.3
+Length in core genome: 298
+Index in core genome: 3418 - 3716
+Length in aligned genome: 298
+Index in aligned genome: 3415 - 3713
+
+LCS NO.4
+Aligned with marker NO.2
+Length in core genome: 285
+Index in core genome: 4695 - 4980
+Length in aligned genome: 285
+Index in aligned genome: 4692 - 4977
+
+
+with other genomes NO.42
+Name 42: >01_AE.TH.1993.93TH057.AB253425
+LCS NO.1
+Aligned with marker NO.3
+Length in core genome: 298
+Index in core genome: 3418 - 3716
+Length in aligned genome: 298
+Index in aligned genome: 3415 - 3713
+
+LCS NO.2
+Aligned with marker NO.3
+Length in core genome: 298
+Index in core genome: 3418 - 3716
+Length in aligned genome: 298
+Index in aligned genome: 3415 - 3713
+
+LCS NO.4
+Aligned with marker NO.2
+Length in core genome: 285
+Index in core genome: 4695 - 4980
+Length in aligned genome: 285
+Index in aligned genome: 4692 - 4977
+
+LCS NO.5
+Aligned with marker NO.2
+Length in core genome: 310
+Index in core genome: 4695 - 5005
+Length in aligned genome: 310
+Index in aligned genome: 4692 - 5002
+
+
+with other genomes NO.43
+Name 43: >01_AE.JP.-.DR6824.AB253426
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 255
+Index in core genome: 573 - 828
+Length in aligned genome: 255
+Index in aligned genome: 587 - 842
+
+
+with other genomes NO.44
+Name 44: >01_AE.JP.-.DR6824.AB253427
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 255
+Index in core genome: 573 - 828
+Length in aligned genome: 255
+Index in aligned genome: 588 - 843
+
+LCS NO.2
+Aligned with marker NO.2
+Length in core genome: 265
+Index in core genome: 4740 - 5005
+Length in aligned genome: 265
+Index in aligned genome: 4752 - 5017
+
+
+with other genomes NO.45
+Name 45: >A1.UG.1992.92UG037_A35.AB253428
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 162
+Index in core genome: 706 - 868
+Length in aligned genome: 162
+Index in aligned genome: 709 - 871
+
+
+with other genomes NO.46
+Name 46: >A1.UG.1992.92UG037_A40.AB253429
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 137
+Index in core genome: 706 - 843
+Length in aligned genome: 137
+Index in aligned genome: 709 - 846
+
+
+with other genomes NO.47
+Name 47: >BF1.JP.-.DR0769.AB253430
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 200
+Index in core genome: 4791 - 4991
+Length in aligned genome: 200
+Index in aligned genome: 4776 - 4976
+
+
+with other genomes NO.48
+Name 48: >BF1.JP.-.DR0769.AB253431
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 170
+Index in core genome: 4821 - 4991
+Length in aligned genome: 170
+Index in aligned genome: 4806 - 4976
+
+
+with other genomes NO.49
+Name 49: >B.US.1985.Ba_L.AB253432
+LCS NO.1
+Aligned with marker NO.2
+Length in core genome: 146
+Index in core genome: 4791 - 4937
+Length in aligned genome: 146
+Index in aligned genome: 4785 - 4931
+
+
+with other genomes NO.50
+Name 50: >01_AE.JP.-.DR1741.AB253635
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 623
+Index in core genome: 543 - 1166
+Length in aligned genome: 623
+Index in aligned genome: 543 - 1166
+
+LCS NO.8
+Aligned with marker NO.1
+Length in core genome: 646
+Index in core genome: 520 - 1166
+Length in aligned genome: 646
+Index in aligned genome: 520 - 1166
+
+LCS NO.9
+Aligned with marker NO.1
+Length in core genome: 550
+Index in core genome: 254 - 804
+Length in aligned genome: 550
+Index in aligned genome: 254 - 804
+
+LCS NO.16
+Aligned with marker NO.3
+Length in core genome: 678
+Index in core genome: 3080 - 3758
+Length in aligned genome: 678
+Index in aligned genome: 3080 - 3758
+
+LCS NO.17
+Aligned with marker NO.3
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.17
+Aligned with marker NO.5
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.18
+Aligned with marker NO.3
+Length in core genome: 679
+Index in core genome: 3273 - 3952
+Length in aligned genome: 679
+Index in aligned genome: 3273 - 3952
+
+LCS NO.18
+Aligned with marker NO.5
+Length in core genome: 679
+Index in core genome: 3273 - 3952
+Length in aligned genome: 679
+Index in aligned genome: 3273 - 3952
+
+LCS NO.21
+Aligned with marker NO.2
+Length in core genome: 696
+Index in core genome: 4506 - 5202
+Length in aligned genome: 696
+Index in aligned genome: 4506 - 5202
+
+LCS NO.21
+Aligned with marker NO.6
+Length in core genome: 696
+Index in core genome: 4506 - 5202
+Length in aligned genome: 696
+Index in aligned genome: 4506 - 5202
+
+LCS NO.22
+Aligned with marker NO.2
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4534 - 5202
+
+LCS NO.22
+Aligned with marker NO.6
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4534 - 5202
+
+LCS NO.23
+Aligned with marker NO.2
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4614 - 5202
+
+LCS NO.23
+Aligned with marker NO.6
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4614 - 5202
+
+LCS NO.25
+Aligned with marker NO.2
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4575 - 5202
+
+LCS NO.25
+Aligned with marker NO.6
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4575 - 5202
+
+LCS NO.30
+Aligned with marker NO.8
+Length in core genome: 764
+Index in core genome: 7464 - 8228
+Length in aligned genome: 764
+Index in aligned genome: 7470 - 8234
+
+LCS NO.31
+Aligned with marker NO.8
+Length in core genome: 762
+Index in core genome: 7466 - 8228
+Length in aligned genome: 762
+Index in aligned genome: 7472 - 8234
+
+
+with other genomes NO.51
+Name 51: >01_AE.JP.-.DR1741.AB253636
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 766
+Index in core genome: 71 - 837
+Length in aligned genome: 765
+Index in aligned genome: 71 - 836
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 399
+Index in core genome: 642 - 1041
+Length in aligned genome: 399
+Index in aligned genome: 641 - 1040
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 312
+Index in core genome: 729 - 1041
+Length in aligned genome: 312
+Index in aligned genome: 728 - 1040
+
+LCS NO.12
+Aligned with marker NO.3
+Length in core genome: 1410
+Index in core genome: 2891 - 4301
+Length in aligned genome: 1410
+Index in aligned genome: 2890 - 4300
+
+LCS NO.12
+Aligned with marker NO.5
+Length in core genome: 1410
+Index in core genome: 2891 - 4301
+Length in aligned genome: 1410
+Index in aligned genome: 2890 - 4300
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 1945
+Index in core genome: 2356 - 4301
+Length in aligned genome: 1945
+Index in aligned genome: 2355 - 4300
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 1945
+Index in core genome: 2356 - 4301
+Length in aligned genome: 1945
+Index in aligned genome: 2355 - 4300
+
+LCS NO.14
+Aligned with marker NO.3
+Length in core genome: 1089
+Index in core genome: 3212 - 4301
+Length in aligned genome: 1089
+Index in aligned genome: 3211 - 4300
+
+LCS NO.14
+Aligned with marker NO.5
+Length in core genome: 1089
+Index in core genome: 3212 - 4301
+Length in aligned genome: 1089
+Index in aligned genome: 3211 - 4300
+
+LCS NO.15
+Aligned with marker NO.2
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4533 - 5201
+
+LCS NO.15
+Aligned with marker NO.6
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4533 - 5201
+
+LCS NO.16
+Aligned with marker NO.2
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4613 - 5201
+
+LCS NO.16
+Aligned with marker NO.6
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4613 - 5201
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4574 - 5201
+
+LCS NO.17
+Aligned with marker NO.6
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4574 - 5201
+
+LCS NO.22
+Aligned with marker NO.8
+Length in core genome: 764
+Index in core genome: 7464 - 8228
+Length in aligned genome: 764
+Index in aligned genome: 7469 - 8233
+
+LCS NO.23
+Aligned with marker NO.8
+Length in core genome: 762
+Index in core genome: 7466 - 8228
+Length in aligned genome: 762
+Index in aligned genome: 7471 - 8233
+
+
+with other genomes NO.52
+Name 52: >01_AE.JP.-.DR1741.AB253637
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 317
+Index in core genome: 520 - 837
+Length in aligned genome: 317
+Index in aligned genome: 520 - 837
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 477
+Index in core genome: 654 - 1131
+Length in aligned genome: 477
+Index in aligned genome: 654 - 1131
+
+LCS NO.7
+Aligned with marker NO.4
+Length in core genome: 330
+Index in core genome: 1300 - 1630
+Length in aligned genome: 330
+Index in aligned genome: 1300 - 1630
+
+LCS NO.8
+Aligned with marker NO.4
+Length in core genome: 564
+Index in core genome: 1411 - 1975
+Length in aligned genome: 564
+Index in aligned genome: 1411 - 1975
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 524
+Index in core genome: 3428 - 3952
+Length in aligned genome: 524
+Index in aligned genome: 3428 - 3952
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 524
+Index in core genome: 3428 - 3952
+Length in aligned genome: 524
+Index in aligned genome: 3428 - 3952
+
+LCS NO.16
+Aligned with marker NO.3
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.16
+Aligned with marker NO.5
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 411
+Index in core genome: 4791 - 5202
+Length in aligned genome: 411
+Index in aligned genome: 4791 - 5202
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 411
+Index in core genome: 4791 - 5202
+Length in aligned genome: 411
+Index in aligned genome: 4791 - 5202
+
+LCS NO.20
+Aligned with marker NO.7
+Length in core genome: 411
+Index in core genome: 6257 - 6668
+Length in aligned genome: 411
+Index in aligned genome: 6257 - 6668
+
+LCS NO.21
+Aligned with marker NO.7
+Length in core genome: 1047
+Index in core genome: 5621 - 6668
+Length in aligned genome: 1047
+Index in aligned genome: 5621 - 6668
+
+LCS NO.25
+Aligned with marker NO.8
+Length in core genome: 631
+Index in core genome: 7342 - 7973
+Length in aligned genome: 631
+Index in aligned genome: 7342 - 7973
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 321
+Index in core genome: 7745 - 8066
+Length in aligned genome: 321
+Index in aligned genome: 7745 - 8066
+
+
+with other genomes NO.53
+Name 53: >01_AE.JP.-.DR1741.AB253638
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 606
+Index in core genome: 317 - 923
+Length in aligned genome: 606
+Index in aligned genome: 317 - 923
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 398
+Index in core genome: 685 - 1083
+Length in aligned genome: 398
+Index in aligned genome: 685 - 1083
+
+LCS NO.10
+Aligned with marker NO.3
+Length in core genome: 941
+Index in core genome: 2817 - 3758
+Length in aligned genome: 941
+Index in aligned genome: 2817 - 3758
+
+LCS NO.12
+Aligned with marker NO.3
+Length in core genome: 524
+Index in core genome: 3428 - 3952
+Length in aligned genome: 524
+Index in aligned genome: 3428 - 3952
+
+LCS NO.12
+Aligned with marker NO.5
+Length in core genome: 524
+Index in core genome: 3428 - 3952
+Length in aligned genome: 524
+Index in aligned genome: 3428 - 3952
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.15
+Aligned with marker NO.2
+Length in core genome: 770
+Index in core genome: 4194 - 4964
+Length in aligned genome: 770
+Index in aligned genome: 4194 - 4964
+
+LCS NO.16
+Aligned with marker NO.2
+Length in core genome: 430
+Index in core genome: 4532 - 4962
+Length in aligned genome: 430
+Index in aligned genome: 4532 - 4962
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 519
+Index in core genome: 4445 - 4964
+Length in aligned genome: 519
+Index in aligned genome: 4445 - 4964
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 394
+Index in core genome: 4799 - 5193
+Length in aligned genome: 394
+Index in aligned genome: 4799 - 5193
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 394
+Index in core genome: 4799 - 5193
+Length in aligned genome: 394
+Index in aligned genome: 4799 - 5193
+
+LCS NO.22
+Aligned with marker NO.8
+Length in core genome: 729
+Index in core genome: 7708 - 8437
+Length in aligned genome: 729
+Index in aligned genome: 7748 - 8477
+
+
+with other genomes NO.54
+Name 54: >01_AE.JP.-.DR1741.AB253639
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 357
+Index in core genome: 685 - 1042
+Length in aligned genome: 357
+Index in aligned genome: 685 - 1042
+
+LCS NO.5
+Aligned with marker NO.4
+Length in core genome: 486
+Index in core genome: 1167 - 1653
+Length in aligned genome: 486
+Index in aligned genome: 1167 - 1653
+
+LCS NO.6
+Aligned with marker NO.4
+Length in core genome: 483
+Index in core genome: 1170 - 1653
+Length in aligned genome: 483
+Index in aligned genome: 1170 - 1653
+
+LCS NO.12
+Aligned with marker NO.3
+Length in core genome: 842
+Index in core genome: 2916 - 3758
+Length in aligned genome: 842
+Index in aligned genome: 2916 - 3758
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 775
+Index in core genome: 2963 - 3738
+Length in aligned genome: 775
+Index in aligned genome: 2963 - 3738
+
+LCS NO.14
+Aligned with marker NO.3
+Length in core genome: 842
+Index in core genome: 2916 - 3758
+Length in aligned genome: 842
+Index in aligned genome: 2916 - 3758
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 579
+Index in core genome: 3373 - 3952
+Length in aligned genome: 579
+Index in aligned genome: 3373 - 3952
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 1008
+Index in core genome: 4194 - 5202
+Length in aligned genome: 1008
+Index in aligned genome: 4194 - 5202
+
+LCS NO.17
+Aligned with marker NO.6
+Length in core genome: 1008
+Index in core genome: 4194 - 5202
+Length in aligned genome: 1008
+Index in aligned genome: 4194 - 5202
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4534 - 5202
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4534 - 5202
+
+LCS NO.19
+Aligned with marker NO.2
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4614 - 5202
+
+LCS NO.19
+Aligned with marker NO.6
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4614 - 5202
+
+LCS NO.20
+Aligned with marker NO.2
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4575 - 5202
+
+LCS NO.20
+Aligned with marker NO.6
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4575 - 5202
+
+LCS NO.25
+Aligned with marker NO.8
+Length in core genome: 764
+Index in core genome: 7464 - 8228
+Length in aligned genome: 764
+Index in aligned genome: 7470 - 8234
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 762
+Index in core genome: 7466 - 8228
+Length in aligned genome: 762
+Index in aligned genome: 7472 - 8234
+
+
+
+with other genomes NO.56
+Name 56: >01_AE.JP.-.DR1741.AB253641
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 254
+Index in core genome: 520 - 774
+Length in aligned genome: 254
+Index in aligned genome: 520 - 774
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 362
+Index in core genome: 772 - 1134
+Length in aligned genome: 362
+Index in aligned genome: 773 - 1135
+
+LCS NO.7
+Aligned with marker NO.4
+Length in core genome: 353
+Index in core genome: 1300 - 1653
+Length in aligned genome: 353
+Index in aligned genome: 1301 - 1654
+
+LCS NO.8
+Aligned with marker NO.4
+Length in core genome: 463
+Index in core genome: 1448 - 1911
+Length in aligned genome: 463
+Index in aligned genome: 1449 - 1912
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 842
+Index in core genome: 2916 - 3758
+Length in aligned genome: 842
+Index in aligned genome: 2917 - 3759
+
+LCS NO.14
+Aligned with marker NO.3
+Length in core genome: 425
+Index in core genome: 3527 - 3952
+Length in aligned genome: 425
+Index in aligned genome: 3528 - 3953
+
+LCS NO.14
+Aligned with marker NO.5
+Length in core genome: 425
+Index in core genome: 3527 - 3952
+Length in aligned genome: 425
+Index in aligned genome: 3528 - 3953
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 813
+Index in core genome: 4389 - 5202
+Length in aligned genome: 813
+Index in aligned genome: 4390 - 5203
+
+LCS NO.17
+Aligned with marker NO.6
+Length in core genome: 813
+Index in core genome: 4389 - 5202
+Length in aligned genome: 813
+Index in aligned genome: 4390 - 5203
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4535 - 5203
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4535 - 5203
+
+LCS NO.19
+Aligned with marker NO.2
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4615 - 5203
+
+LCS NO.19
+Aligned with marker NO.6
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4615 - 5203
+
+LCS NO.20
+Aligned with marker NO.2
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4576 - 5203
+
+LCS NO.20
+Aligned with marker NO.6
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4576 - 5203
+
+LCS NO.25
+Aligned with marker NO.8
+Length in core genome: 764
+Index in core genome: 7464 - 8228
+Length in aligned genome: 764
+Index in aligned genome: 7471 - 8235
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 762
+Index in core genome: 7466 - 8228
+Length in aligned genome: 762
+Index in aligned genome: 7473 - 8235
+
+
+with other genomes NO.57
+Name 57: >01_AE.JP.-.DR1741.AB253642
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 614
+Index in core genome: 520 - 1134
+Length in aligned genome: 614
+Index in aligned genome: 520 - 1134
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 490
+Index in core genome: 642 - 1132
+Length in aligned genome: 490
+Index in aligned genome: 642 - 1132
+
+LCS NO.7
+Aligned with marker NO.1
+Length in core genome: 591
+Index in core genome: 543 - 1134
+Length in aligned genome: 591
+Index in aligned genome: 543 - 1134
+
+LCS NO.10
+Aligned with marker NO.4
+Length in core genome: 564
+Index in core genome: 1411 - 1975
+Length in aligned genome: 564
+Index in aligned genome: 1411 - 1975
+
+LCS NO.19
+Aligned with marker NO.3
+Length in core genome: 511
+Index in core genome: 3463 - 3974
+Length in aligned genome: 511
+Index in aligned genome: 3463 - 3974
+
+LCS NO.19
+Aligned with marker NO.5
+Length in core genome: 511
+Index in core genome: 3463 - 3974
+Length in aligned genome: 511
+Index in aligned genome: 3463 - 3974
+
+LCS NO.23
+Aligned with marker NO.2
+Length in core genome: 411
+Index in core genome: 4791 - 5202
+Length in aligned genome: 411
+Index in aligned genome: 4791 - 5202
+
+LCS NO.23
+Aligned with marker NO.6
+Length in core genome: 411
+Index in core genome: 4791 - 5202
+Length in aligned genome: 411
+Index in aligned genome: 4791 - 5202
+
+LCS NO.25
+Aligned with marker NO.7
+Length in core genome: 411
+Index in core genome: 6257 - 6668
+Length in aligned genome: 411
+Index in aligned genome: 6257 - 6668
+
+LCS NO.26
+Aligned with marker NO.7
+Length in core genome: 1047
+Index in core genome: 5621 - 6668
+Length in aligned genome: 1047
+Index in aligned genome: 5621 - 6668
+
+LCS NO.30
+Aligned with marker NO.8
+Length in core genome: 631
+Index in core genome: 7342 - 7973
+Length in aligned genome: 631
+Index in aligned genome: 7342 - 7973
+
+LCS NO.31
+Aligned with marker NO.8
+Length in core genome: 321
+Index in core genome: 7745 - 8066
+Length in aligned genome: 321
+Index in aligned genome: 7745 - 8066
+
+
+with other genomes NO.58
+Name 58: >01_AE.JP.-.DR1741.AB253643
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 849
+Index in core genome: 317 - 1166
+Length in aligned genome: 849
+Index in aligned genome: 317 - 1166
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 687
+Index in core genome: 479 - 1166
+Length in aligned genome: 687
+Index in aligned genome: 479 - 1166
+
+LCS NO.4
+Aligned with marker NO.4
+Length in core genome: 386
+Index in core genome: 1300 - 1686
+Length in aligned genome: 386
+Index in aligned genome: 1300 - 1686
+
+LCS NO.11
+Aligned with marker NO.3
+Length in core genome: 755
+Index in core genome: 3261 - 4016
+Length in aligned genome: 755
+Index in aligned genome: 3261 - 4016
+
+LCS NO.11
+Aligned with marker NO.5
+Length in core genome: 755
+Index in core genome: 3261 - 4016
+Length in aligned genome: 755
+Index in aligned genome: 3261 - 4016
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 1279
+Index in core genome: 2479 - 3758
+Length in aligned genome: 1279
+Index in aligned genome: 2479 - 3758
+
+LCS NO.14
+Aligned with marker NO.2
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4534 - 5202
+
+LCS NO.14
+Aligned with marker NO.6
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4534 - 5202
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 1120
+Index in core genome: 2888 - 4008
+Length in aligned genome: 1120
+Index in aligned genome: 2888 - 4008
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 1120
+Index in core genome: 2888 - 4008
+Length in aligned genome: 1120
+Index in aligned genome: 2888 - 4008
+
+LCS NO.16
+Aligned with marker NO.2
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4614 - 5202
+
+LCS NO.16
+Aligned with marker NO.6
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4614 - 5202
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4575 - 5202
+
+LCS NO.17
+Aligned with marker NO.6
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4575 - 5202
+
+LCS NO.22
+Aligned with marker NO.8
+Length in core genome: 764
+Index in core genome: 7464 - 8228
+Length in aligned genome: 764
+Index in aligned genome: 7470 - 8234
+
+LCS NO.23
+Aligned with marker NO.8
+Length in core genome: 762
+Index in core genome: 7466 - 8228
+Length in aligned genome: 762
+Index in aligned genome: 7472 - 8234
+
+
+with other genomes NO.59
+Name 59: >01_AE.JP.-.DR1741.AB253644
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 284
+Index in core genome: 520 - 804
+Length in aligned genome: 285
+Index in aligned genome: 520 - 805
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 293
+Index in core genome: 772 - 1065
+Length in aligned genome: 293
+Index in aligned genome: 773 - 1066
+
+LCS NO.10
+Aligned with marker NO.3
+Length in core genome: 948
+Index in core genome: 3060 - 4008
+Length in aligned genome: 948
+Index in aligned genome: 3061 - 4009
+
+LCS NO.10
+Aligned with marker NO.5
+Length in core genome: 948
+Index in core genome: 3060 - 4008
+Length in aligned genome: 948
+Index in aligned genome: 3061 - 4009
+
+LCS NO.11
+Aligned with marker NO.3
+Length in core genome: 780
+Index in core genome: 2916 - 3696
+Length in aligned genome: 780
+Index in aligned genome: 2917 - 3697
+
+LCS NO.12
+Aligned with marker NO.3
+Length in core genome: 948
+Index in core genome: 3060 - 4008
+Length in aligned genome: 948
+Index in aligned genome: 3061 - 4009
+
+LCS NO.12
+Aligned with marker NO.5
+Length in core genome: 948
+Index in core genome: 3060 - 4008
+Length in aligned genome: 948
+Index in aligned genome: 3061 - 4009
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 747
+Index in core genome: 3261 - 4008
+Length in aligned genome: 747
+Index in aligned genome: 3262 - 4009
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 747
+Index in core genome: 3261 - 4008
+Length in aligned genome: 747
+Index in aligned genome: 3262 - 4009
+
+LCS NO.15
+Aligned with marker NO.2
+Length in core genome: 430
+Index in core genome: 4532 - 4962
+Length in aligned genome: 430
+Index in aligned genome: 4533 - 4963
+
+LCS NO.16
+Aligned with marker NO.3
+Length in core genome: 832
+Index in core genome: 3176 - 4008
+Length in aligned genome: 832
+Index in aligned genome: 3177 - 4009
+
+LCS NO.16
+Aligned with marker NO.5
+Length in core genome: 832
+Index in core genome: 3176 - 4008
+Length in aligned genome: 832
+Index in aligned genome: 3177 - 4009
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 519
+Index in core genome: 4445 - 4964
+Length in aligned genome: 519
+Index in aligned genome: 4446 - 4965
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 394
+Index in core genome: 4799 - 5193
+Length in aligned genome: 394
+Index in aligned genome: 4800 - 5194
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 394
+Index in core genome: 4799 - 5193
+Length in aligned genome: 394
+Index in aligned genome: 4800 - 5194
+
+LCS NO.22
+Aligned with marker NO.8
+Length in core genome: 729
+Index in core genome: 7708 - 8437
+Length in aligned genome: 729
+Index in aligned genome: 7749 - 8478
+
+
+with other genomes NO.60
+Name 60: >01_AE.JP.-.DR1741.AB253645
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 520
+Index in core genome: 254 - 774
+Length in aligned genome: 520
+Index in aligned genome: 254 - 774
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 284
+Index in core genome: 520 - 804
+Length in aligned genome: 285
+Index in aligned genome: 520 - 805
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 635
+Index in core genome: 3373 - 4008
+Length in aligned genome: 635
+Index in aligned genome: 3374 - 4009
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 635
+Index in core genome: 3373 - 4008
+Length in aligned genome: 635
+Index in aligned genome: 3374 - 4009
+
+LCS NO.14
+Aligned with marker NO.3
+Length in core genome: 1135
+Index in core genome: 2817 - 3952
+Length in aligned genome: 1135
+Index in aligned genome: 2818 - 3953
+
+LCS NO.14
+Aligned with marker NO.5
+Length in core genome: 1135
+Index in core genome: 2817 - 3952
+Length in aligned genome: 1135
+Index in aligned genome: 2818 - 3953
+
+LCS NO.17
+Aligned with marker NO.2
+Length in core genome: 798
+Index in core genome: 4404 - 5202
+Length in aligned genome: 798
+Index in aligned genome: 4405 - 5203
+
+LCS NO.17
+Aligned with marker NO.6
+Length in core genome: 798
+Index in core genome: 4404 - 5202
+Length in aligned genome: 798
+Index in aligned genome: 4405 - 5203
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4535 - 5203
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 668
+Index in core genome: 4534 - 5202
+Length in aligned genome: 668
+Index in aligned genome: 4535 - 5203
+
+LCS NO.19
+Aligned with marker NO.2
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4615 - 5203
+
+LCS NO.19
+Aligned with marker NO.6
+Length in core genome: 588
+Index in core genome: 4614 - 5202
+Length in aligned genome: 588
+Index in aligned genome: 4615 - 5203
+
+LCS NO.20
+Aligned with marker NO.2
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4576 - 5203
+
+LCS NO.20
+Aligned with marker NO.6
+Length in core genome: 627
+Index in core genome: 4575 - 5202
+Length in aligned genome: 627
+Index in aligned genome: 4576 - 5203
+
+LCS NO.25
+Aligned with marker NO.8
+Length in core genome: 764
+Index in core genome: 7464 - 8228
+Length in aligned genome: 764
+Index in aligned genome: 7471 - 8235
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 762
+Index in core genome: 7466 - 8228
+Length in aligned genome: 762
+Index in aligned genome: 7473 - 8235
+
+
+with other genomes NO.61
+Name 61: >01_AE.JP.-.DR1741.AB253646
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 317
+Index in core genome: 520 - 837
+Length in aligned genome: 317
+Index in aligned genome: 520 - 837
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 477
+Index in core genome: 654 - 1131
+Length in aligned genome: 477
+Index in aligned genome: 654 - 1131
+
+LCS NO.8
+Aligned with marker NO.4
+Length in core genome: 486
+Index in core genome: 1167 - 1653
+Length in aligned genome: 486
+Index in aligned genome: 1167 - 1653
+
+LCS NO.9
+Aligned with marker NO.4
+Length in core genome: 483
+Index in core genome: 1170 - 1653
+Length in aligned genome: 483
+Index in aligned genome: 1170 - 1653
+
+LCS NO.17
+Aligned with marker NO.3
+Length in core genome: 1036
+Index in core genome: 2916 - 3952
+Length in aligned genome: 1036
+Index in aligned genome: 2916 - 3952
+
+LCS NO.17
+Aligned with marker NO.5
+Length in core genome: 1036
+Index in core genome: 2916 - 3952
+Length in aligned genome: 1036
+Index in aligned genome: 2916 - 3952
+
+LCS NO.18
+Aligned with marker NO.3
+Length in core genome: 601
+Index in core genome: 3373 - 3974
+Length in aligned genome: 601
+Index in aligned genome: 3373 - 3974
+
+LCS NO.18
+Aligned with marker NO.5
+Length in core genome: 601
+Index in core genome: 3373 - 3974
+Length in aligned genome: 601
+Index in aligned genome: 3373 - 3974
+
+LCS NO.19
+Aligned with marker NO.3
+Length in core genome: 372
+Index in core genome: 3602 - 3974
+Length in aligned genome: 372
+Index in aligned genome: 3602 - 3974
+
+LCS NO.19
+Aligned with marker NO.5
+Length in core genome: 372
+Index in core genome: 3602 - 3974
+Length in aligned genome: 372
+Index in aligned genome: 3602 - 3974
+
+LCS NO.23
+Aligned with marker NO.2
+Length in core genome: 279
+Index in core genome: 4695 - 4974
+Length in aligned genome: 279
+Index in aligned genome: 4695 - 4974
+
+LCS NO.24
+Aligned with marker NO.2
+Length in core genome: 372
+Index in core genome: 4791 - 5163
+Length in aligned genome: 372
+Index in aligned genome: 4791 - 5163
+
+LCS NO.24
+Aligned with marker NO.6
+Length in core genome: 372
+Index in core genome: 4791 - 5163
+Length in aligned genome: 372
+Index in aligned genome: 4791 - 5163
+
+LCS NO.25
+Aligned with marker NO.2
+Length in core genome: 342
+Index in core genome: 4821 - 5163
+Length in aligned genome: 342
+Index in aligned genome: 4821 - 5163
+
+LCS NO.25
+Aligned with marker NO.6
+Length in core genome: 342
+Index in core genome: 4821 - 5163
+Length in aligned genome: 342
+Index in aligned genome: 4821 - 5163
+
+LCS NO.29
+Aligned with marker NO.7
+Length in core genome: 1012
+Index in core genome: 5621 - 6633
+Length in aligned genome: 1012
+Index in aligned genome: 5621 - 6633
+
+LCS NO.30
+Aligned with marker NO.7
+Length in core genome: 750
+Index in core genome: 6134 - 6884
+Length in aligned genome: 750
+Index in aligned genome: 6134 - 6884
+
+LCS NO.33
+Aligned with marker NO.8
+Length in core genome: 600
+Index in core genome: 7754 - 8354
+Length in aligned genome: 600
+Index in aligned genome: 7754 - 8354
+
+LCS NO.34
+Aligned with marker NO.8
+Length in core genome: 890
+Index in core genome: 7464 - 8354
+Length in aligned genome: 890
+Index in aligned genome: 7464 - 8354
+
+
+with other genomes NO.62
+Name 62: >01_AE.JP.-.DR1873.AB253647
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 521 - 1137
+
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 504 - 914
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 521 - 1137
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 540 - 1137
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 710 - 1177
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.19
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4765 - 5251
+
+LCS NO.19
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4765 - 5251
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7462 - 8356
+
+LCS NO.30
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9117 - 9637
+
+
+with other genomes NO.63
+Name 63: >01_AE.JP.-.DR1873.AB253648
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 521 - 1137
+
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 504 - 914
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 540 - 1137
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 521 - 1137
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 710 - 1177
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.18
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4765 - 5251
+
+LCS NO.18
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4765 - 5251
+
+LCS NO.25
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7462 - 8356
+
+LCS NO.29
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9117 - 9637
+
+
+with other genomes NO.64
+Name 64: >01_AE.JP.-.DR1873.AB253649
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 526
+Index in core genome: 520 - 1046
+Length in aligned genome: 526
+Index in aligned genome: 520 - 1046
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 503 - 913
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 539 - 1136
+
+LCS NO.7
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 709 - 1176
+
+LCS NO.16
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.16
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.22
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.22
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.29
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7461 - 8355
+
+LCS NO.33
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9116 - 9636
+
+
+with other genomes NO.65
+Name 65: >01_AE.JP.-.DR1873.AB253650
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 503 - 913
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 539 - 1136
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 709 - 1176
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.20
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.20
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7458 - 8352
+
+LCS NO.30
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9113 - 9633
+
+
+with other genomes NO.66
+Name 66: >01_AE.JP.-.DR1873.AB253651
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 521 - 1137
+
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 504 - 914
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 521 - 1137
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 540 - 1137
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 710 - 1177
+
+LCS NO.13
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.13
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3291 - 4389
+
+LCS NO.19
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4765 - 5251
+
+LCS NO.19
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4765 - 5251
+
+LCS NO.23
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7462 - 8356
+
+LCS NO.28
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9117 - 9637
+
+
+with other genomes NO.67
+Name 67: >01_AE.JP.-.DR1873.AB253652
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 526
+Index in core genome: 520 - 1046
+Length in aligned genome: 526
+Index in aligned genome: 520 - 1046
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 503 - 913
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 539 - 1136
+
+LCS NO.7
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 709 - 1176
+
+LCS NO.16
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.16
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.21
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.21
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.28
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7461 - 8355
+
+LCS NO.32
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9116 - 9636
+
+
+with other genomes NO.68
+Name 68: >01_AE.JP.-.DR1873.AB253653
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 503 - 913
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 539 - 1136
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 709 - 1176
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.20
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.20
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.27
+Aligned with marker NO.8
+Length in core genome: 893
+Index in core genome: 7461 - 8354
+Length in aligned genome: 894
+Index in aligned genome: 7461 - 8355
+
+LCS NO.31
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9116 - 9636
+
+
+with other genomes NO.69
+Name 69: >01_AE.JP.-.DR1873.AB253654
+LCS NO.1
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.3
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 503 - 913
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 539 - 1136
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 709 - 1176
+
+LCS NO.15
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.15
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.20
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.20
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.26
+Aligned with marker NO.8
+Length in core genome: 732
+Index in core genome: 7461 - 8193
+Length in aligned genome: 733
+Index in aligned genome: 7461 - 8194
+
+LCS NO.27
+Aligned with marker NO.8
+Length in core genome: 890
+Index in core genome: 7464 - 8354
+Length in aligned genome: 890
+Index in aligned genome: 7465 - 8355
+
+
+with other genomes NO.70
+Name 70: >01_AE.JP.-.DR1873.AB253655
+LCS NO.2
+Aligned with marker NO.1
+Length in core genome: 526
+Index in core genome: 520 - 1046
+Length in aligned genome: 526
+Index in aligned genome: 520 - 1046
+
+LCS NO.4
+Aligned with marker NO.1
+Length in core genome: 410
+Index in core genome: 503 - 913
+Length in aligned genome: 410
+Index in aligned genome: 503 - 913
+
+LCS NO.5
+Aligned with marker NO.1
+Length in core genome: 616
+Index in core genome: 520 - 1136
+Length in aligned genome: 616
+Index in aligned genome: 520 - 1136
+
+LCS NO.6
+Aligned with marker NO.1
+Length in core genome: 597
+Index in core genome: 539 - 1136
+Length in aligned genome: 597
+Index in aligned genome: 539 - 1136
+
+LCS NO.7
+Aligned with marker NO.1
+Length in core genome: 467
+Index in core genome: 709 - 1176
+Length in aligned genome: 467
+Index in aligned genome: 709 - 1176
+
+LCS NO.16
+Aligned with marker NO.3
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.16
+Aligned with marker NO.5
+Length in core genome: 1098
+Index in core genome: 3290 - 4388
+Length in aligned genome: 1098
+Index in aligned genome: 3290 - 4388
+
+LCS NO.21
+Aligned with marker NO.2
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.21
+Aligned with marker NO.6
+Length in core genome: 486
+Index in core genome: 4764 - 5250
+Length in aligned genome: 486
+Index in aligned genome: 4764 - 5250
+
+LCS NO.27
+Aligned with marker NO.8
+Length in core genome: 890
+Index in core genome: 7464 - 8354
+Length in aligned genome: 890
+Index in aligned genome: 7465 - 8355
+
+LCS NO.33
+Aligned with marker NO.4
+Length in core genome: 520
+Index in core genome: 1399 - 1919
+Length in aligned genome: 520
+Index in aligned genome: 9116 - 9636
+
+
